@@ -73,10 +73,3 @@ HTML5 / CSS / JavaScript (Frontend)
 
 
 ---
-
-Una vez que lo guardes en la raíz, podés subirlo a GitHub con estos comandos:
-
-```bash
-git add README.md
-git commit -m "docs: agrega README profesional al repositorio"
-git push origin main
