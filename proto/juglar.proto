@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+package juglar;
+
+option go_package = "juglar/proto";
+
+service JuglarService {
+  rpc HealthCheck (HealthRequest) returns (HealthResponse);
+  rpc ObtenerHistorial (HistorialRequest) returns (HistorialResponse);
+  rpc EnviarMensaje (MensajeRequest) returns (MensajeResponse);
+}
+
+message HealthRequest {}
+
+message HealthResponse {
+  string estado = 1;
+  string uptime = 2;
+}
+
+message HistorialRequest {}
+
+message MensajeRequest {
+  string remitente = 1;
+  string contenido = 2;
+}
+
+message MensajeResponse {
+  string status = 1;
+}
+
+message MensajeItem {
+  string remitente = 1;
+  string contenido = 2;
+  string timestamp = 3;
+}
+
+message HistorialResponse {
+  repeated MensajeItem mensajes = 1;
+}

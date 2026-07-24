@@ -1,0 +1,1932 @@
+[
+  {
+    "remitente": "DevUser",
+    "contenido": "asDASFAS",
+    "timestamp": "2026-07-23T01:13:47.7708559-03:00"
+  },
+  {
+    "remitente": "Desarrollador",
+    "contenido": "¡Hola Juglar, este es mi primer mensaje por gRPC!",
+    "timestamp": "2026-07-23T17:16:44.9100792-03:00"
+  },
+  {
+    "remitente": "Desarrollador",
+    "contenido": "¡Hola Juglar, este es mi primer mensaje por gRPC!",
+    "timestamp": "2026-07-23T17:19:09.1869188-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:15:23.4940646-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:15:27.4960047-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:15:31.4936634-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:15:35.494079-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:15:39.4934894-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:15:43.4946389-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:15:47.493148-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:15:51.493367-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:15:55.4935075-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:15:59.4931934-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:16:03.4941815-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:16:07.4941494-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:16:11.493859-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:16:15.4934101-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:16:19.4933802-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:16:23.4936602-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:16:27.4937989-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:16:31.4933419-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:16:35.4934438-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:16:39.4939387-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:16:43.493724-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:16:47.4937288-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:16:51.494085-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:16:55.4939694-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:16:59.4945526-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:17:03.4934265-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:17:07.494819-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:17:11.4944872-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:17:15.4947008-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:17:19.4930853-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:17:23.4945759-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:17:27.4949098-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:17:31.4947183-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:17:35.4938329-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:17:39.4936627-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:17:43.4937047-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:17:47.4935609-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:17:51.4942507-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:17:55.4934334-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:17:59.4933669-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:18:03.4938367-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:18:07.4939216-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:18:11.4940186-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:18:15.4935599-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:18:19.4945618-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:18:23.4939333-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:18:27.4944374-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:18:31.4939401-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:18:35.493313-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:18:39.4944191-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:18:43.4940816-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:18:47.4934225-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:18:51.4935266-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:18:55.4942417-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:18:59.4946739-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:19:03.4936103-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:19:07.493904-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:19:11.4937096-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:19:15.4936792-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:19:19.4934456-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:19:23.4933629-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:19:27.4935366-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:19:31.4941102-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:19:35.4937788-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:19:39.4942636-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:19:43.4947417-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:19:47.4941261-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:19:51.4936528-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:19:55.4933114-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:19:59.4933762-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:20:03.4935214-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:20:07.4939205-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:20:11.4938568-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:20:15.4944702-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:20:19.4938154-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:20:23.4935195-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:20:27.4936807-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:20:31.4932855-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:20:35.4938613-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:20:39.4932585-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:20:43.4934551-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:20:47.49398-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:20:51.494196-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:20:55.4937418-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:20:59.4942226-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:21:03.4942232-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:21:07.493486-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:21:11.4935542-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:21:15.4937532-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:21:19.4938028-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:21:23.4945284-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:21:27.494019-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:21:31.4932171-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:21:35.4936927-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:21:39.4939676-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:21:43.4937729-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:21:47.4940274-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:21:51.4935459-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:21:55.4936149-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:21:59.4945823-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:22:03.4939444-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:22:07.4942332-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:22:11.4940078-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:22:15.4947589-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:22:19.4933932-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:22:23.4938846-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:22:27.4933625-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:22:31.4943327-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:22:35.493147-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:22:39.4941789-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:22:43.4933221-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:22:47.4934489-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:22:51.4944374-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:22:55.4946273-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:22:59.4945214-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:23:03.4940423-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:23:07.4944247-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:23:11.4931302-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:23:15.4943127-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:23:19.4934838-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:23:23.4936649-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:23:27.4944415-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:23:31.4943324-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:23:35.4936267-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:23:39.4941893-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:23:43.4941008-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:23:47.493996-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:23:51.4942103-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:23:55.4945978-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:23:59.4937798-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:24:03.493201-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:24:07.4940308-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:24:11.4936067-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:24:15.494175-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:24:19.4934735-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:24:23.4940597-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:24:27.4947435-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:24:31.493865-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:24:35.4947657-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:24:39.4935071-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:24:43.493743-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:24:47.4942909-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:24:51.4947533-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:24:55.4933533-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:24:59.4938097-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:25:03.4939137-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:25:07.4931753-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:25:11.4938365-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:25:15.4935697-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:25:19.4940364-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:25:23.4936889-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:25:27.4939166-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:25:31.4934686-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:25:35.4941513-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:25:39.4933789-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:25:43.4941686-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:25:47.4947396-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:25:51.4934352-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:25:55.4930851-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:25:59.493247-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:26:03.49353-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:26:07.4936131-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:26:11.493487-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:26:15.4931736-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:26:19.4935597-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:26:23.4935595-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:26:27.4933221-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:26:31.4932878-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:26:35.4940064-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:26:39.4932591-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:26:43.4932325-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:26:47.4936848-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:26:51.493193-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:26:55.493622-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:26:59.4934048-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:27:03.4932538-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:27:07.493604-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:27:11.4932352-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:27:15.4934333-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:27:19.4938196-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:27:23.4949002-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:27:27.4933842-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:27:31.4937689-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:27:35.4934251-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:27:39.494446-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:27:43.4935365-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:27:47.4934634-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:27:51.4940619-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:27:55.4936969-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:27:59.4938532-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:28:03.4938144-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:28:07.4937871-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:28:11.4943272-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:28:15.4941116-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:28:19.4934691-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:28:23.4936213-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:28:27.4933954-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:28:31.493681-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:28:35.4932541-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:28:39.4937783-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:28:43.4946681-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:28:47.4931694-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:28:51.4931138-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:28:55.4936225-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:28:59.4933571-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:29:03.4947238-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:29:07.4934943-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:29:11.4939561-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:29:15.4942758-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:29:19.49309-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:29:23.4934104-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:29:27.4935856-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:29:31.4935915-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:29:35.4934337-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:29:39.4941705-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:29:43.4944878-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:29:47.493205-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:29:51.4939469-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:29:55.4933335-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:29:59.4936528-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:30:03.49339-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:30:07.4938619-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:30:11.4945191-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:30:15.4936819-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:30:19.4931798-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:30:23.4933194-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:30:27.493196-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:30:31.4940352-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:30:35.4932823-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:30:39.4940894-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:30:43.4943217-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:30:47.4946042-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:30:51.4940761-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:30:55.4939171-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:30:59.4940657-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:31:03.4946567-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:31:07.4939074-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:31:11.4937058-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:31:15.4943475-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:31:19.4940943-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:31:23.4942681-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:31:27.4943905-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:31:31.4942405-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:31:35.4939839-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:31:39.4937904-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:31:43.4938926-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:31:47.4940841-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:31:51.4945686-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:31:55.4940022-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:31:59.494322-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:32:03.494018-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:32:07.4935298-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:32:11.4938106-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:32:15.4940165-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:32:19.4941187-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:32:23.4937947-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:32:27.4940792-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:32:31.4939632-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:32:35.4945255-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:32:39.4940264-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:32:43.4940625-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:32:47.4937256-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:32:51.4938351-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:32:55.4938041-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:32:59.4937344-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:33:03.4941873-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:33:07.4942613-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:33:11.4943816-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:33:15.4935704-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:33:19.4939936-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:33:23.4933063-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:33:27.4939668-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:33:31.4943724-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:33:35.493925-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:33:39.4938858-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:33:43.4936066-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:33:47.4945361-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:33:51.4943093-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:33:55.4943396-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:33:59.4940615-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:34:03.4943288-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:34:07.4944733-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:34:11.493881-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:34:15.4934281-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:34:19.49331-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:34:23.4943769-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:34:27.4937145-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:34:31.4940943-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:34:35.4936569-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:34:39.4946342-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:34:43.4940649-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:34:47.4936076-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:34:51.4938529-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:34:55.4936295-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:34:59.4934448-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:35:03.4938646-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:35:07.4938828-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:35:11.4933762-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:35:15.4939126-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:35:19.4933041-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:35:23.4943901-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:35:27.494319-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:35:31.4932852-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:35:35.4947972-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:35:39.4944817-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:35:43.4945095-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:35:47.4946642-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:35:51.4932814-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:35:55.4939743-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:35:59.4935613-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:36:03.4942279-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:36:07.4935267-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:36:11.4934345-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:36:15.4932919-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:36:19.4944442-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:36:23.4938325-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:36:27.4942091-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:36:31.4942991-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:36:35.4936197-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:36:39.4942131-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:36:43.4931609-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:36:47.4937495-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:36:51.4935055-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:36:55.4946517-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:36:59.4932115-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:37:03.4945011-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:37:07.4935321-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:37:11.4934606-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:37:15.4940252-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:37:19.4941859-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:37:23.4943286-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:37:27.494618-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:37:31.4931113-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:37:35.4941494-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:37:39.4935003-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:37:43.4938049-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:37:47.493321-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:37:51.4934486-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:37:55.4935487-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:37:59.4941024-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:38:03.4933611-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:38:07.4935274-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:38:11.4936346-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:38:15.4933551-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:38:19.4935915-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:38:23.4935868-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:38:27.4935113-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:38:31.4942398-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:38:35.4936513-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:38:39.4931396-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:38:43.4938755-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:38:47.4932532-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:38:51.4938595-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:38:55.4936094-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:38:59.4939741-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:39:03.4938055-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:39:07.4936349-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:39:11.4943817-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:39:15.4936366-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:39:19.4935169-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:39:23.4944812-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:39:27.4939664-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:39:31.494458-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:39:35.4942464-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:39:39.4930426-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:39:43.4942896-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:39:47.4935075-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:39:51.4933768-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:39:55.4934595-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:39:59.4941496-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:40:03.493549-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:40:07.4932671-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:40:11.4942516-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:40:15.4936983-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:40:19.4932133-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:40:23.4937595-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:40:27.4933561-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:40:31.4930975-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:40:35.4938885-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:40:39.4938533-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:40:43.4935-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:40:47.4931487-03:00"
+  },
+  {
+    "remitente": "BotJuglar",
+    "contenido": "e4 e5",
+    "timestamp": "2026-07-23T19:40:51.4934959-03:00"
+  }
+]
